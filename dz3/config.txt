@@ -1,0 +1,15 @@
+# Константы
+PI->3.14159;
+E -> 2.71828;
+
+# Параметры
+name:"MyConfig"
+version:1.0
+supported_versions:(1.0 1.1 1.2)
+settings:{theme:2,max_connections:10}
+constant_value: ![PI]
+# Использование константы
+
+
+
+
